@@ -24,4 +24,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
