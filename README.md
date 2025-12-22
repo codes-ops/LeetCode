@@ -50,6 +50,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -63,9 +64,11 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
