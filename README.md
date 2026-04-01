@@ -58,6 +58,7 @@ This is a repository of Solved Questions
 | [0020-valid-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
+| [3110-score-of-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 ## Tree
 |  |
 | ------- |
