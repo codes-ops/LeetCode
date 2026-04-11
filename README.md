@@ -14,6 +14,7 @@ This is a repository of Solved Questions
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -99,4 +100,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
