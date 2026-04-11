@@ -14,6 +14,7 @@ This is a repository of Solved Questions
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -104,4 +105,12 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
