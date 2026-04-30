@@ -33,6 +33,7 @@ This is a repository of Solved Questions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
