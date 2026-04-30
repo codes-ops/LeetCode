@@ -11,6 +11,7 @@ This is a repository of Solved Questions
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
@@ -101,6 +102,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ This is a repository of Solved Questions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -125,5 +128,10 @@ This is a repository of Solved Questions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
