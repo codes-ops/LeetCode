@@ -1,5 +1,4 @@
-import java.util.HashMap;
-
+import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int ans1 = 0;
@@ -16,7 +15,6 @@ class Solution {
         arr[0] = ans1;
         arr[1] = ans2;
         return arr; 
-        
     }
 }
 
@@ -24,21 +22,20 @@ class Solution {
 
 
 
-
-// HashMap<Integer, Integer> map = new HashMap<>();
-        
-//         for (int i = 0; i < nums.length; i++) {
-//             int complement = target - nums[i]; 
-            
-             
-//             if (map.containsKey(complement)) {
-//                 return new int[]{ map.get(complement), i };
+// int left = 0;
+//         int right = nums.length-1;
+//         while(left<right){
+//             if(nums[left]+nums[right]==target){
+//                 ans1 = left;
+//                 ans2 = right;
+//                 break;
 //             }
-            
-             
-//             map.put(nums[i], i);
+//             else if(nums[left]+nums[right]<target){
+//                 left++;
+//             }
+//             else{
+//                 right--;
+//             }
 //         }
-//         throw new IllegalArgumentException("No two sum solution");
-
 
 
