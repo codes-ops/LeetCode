@@ -6,6 +6,7 @@ This is a repository of Solved Questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@ This is a repository of Solved Questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
