@@ -14,6 +14,7 @@ This is a repository of Solved Questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,6 +136,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1051-height-checker) |
@@ -152,6 +154,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
