@@ -29,6 +29,7 @@ This is a repository of Solved Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -64,6 +65,7 @@ This is a repository of Solved Questions
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2469-convert-the-temperature) |
