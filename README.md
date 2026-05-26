@@ -33,6 +33,7 @@ This is a repository of Solved Questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ This is a repository of Solved Questions
 | [2652-sum-multiples](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
