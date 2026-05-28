@@ -67,6 +67,7 @@ This is a repository of Solved Questions
 | [0007-reverse-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
@@ -89,6 +90,7 @@ This is a repository of Solved Questions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
@@ -161,6 +163,7 @@ This is a repository of Solved Questions
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
