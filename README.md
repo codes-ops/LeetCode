@@ -101,6 +101,7 @@ This is a repository of Solved Questions
 | [0020-valid-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 ## Tree
 |  |
@@ -174,6 +175,7 @@ This is a repository of Solved Questions
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
