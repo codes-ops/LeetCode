@@ -3,12 +3,11 @@ class Solution {
         int n = nums.length;
         // int i = 0;
         // int j = 0;
-        int count = 0;
-        int[] arr = new int[n];
+        // int[] arr = new int[n];
         for(int i=0;i<n;i++){
             int sum = 0;
             if(nums[i]<9){
-                arr[i] = nums[i];
+                continue;
             }
             else{
                 while(nums[i]!=0){
@@ -16,13 +15,13 @@ class Solution {
                     sum = sum + digit;
                     nums[i] = nums[i] / 10;
                 }
-                arr[i] = sum;
+                nums[i] = sum;
             }
         }
-        int min = arr[0];
+        int min = nums[0];
         for(int i=0;i<n;i++){
-            if(arr[i]<min){
-                min = arr[i];
+            if(nums[i]<min){
+                min = nums[i];
             }
         }
         return min;
