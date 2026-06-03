@@ -72,6 +72,7 @@ This is a repository of Solved Questions
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
