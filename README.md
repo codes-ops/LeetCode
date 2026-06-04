@@ -90,6 +90,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@ This is a repository of Solved Questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -119,6 +121,7 @@ This is a repository of Solved Questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -127,6 +130,7 @@ This is a repository of Solved Questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
