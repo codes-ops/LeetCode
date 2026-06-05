@@ -20,6 +20,7 @@ This is a repository of Solved Questions
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
@@ -151,6 +152,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +165,7 @@ This is a repository of Solved Questions
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
@@ -184,6 +187,7 @@ This is a repository of Solved Questions
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
