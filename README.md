@@ -34,6 +34,7 @@ This is a repository of Solved Questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -157,6 +158,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
