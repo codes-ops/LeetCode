@@ -26,6 +26,7 @@ This is a repository of Solved Questions
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@ This is a repository of Solved Questions
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |
