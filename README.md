@@ -80,6 +80,7 @@ This is a repository of Solved Questions
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2469-convert-the-temperature) |
