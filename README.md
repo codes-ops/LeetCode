@@ -33,6 +33,7 @@ This is a repository of Solved Questions
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -220,6 +221,7 @@ This is a repository of Solved Questions
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
 | ------- |
