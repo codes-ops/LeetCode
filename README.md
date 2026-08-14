@@ -11,6 +11,7 @@ This is a repository of Solved Questions
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
@@ -164,6 +165,7 @@ This is a repository of Solved Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
@@ -230,4 +232,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
