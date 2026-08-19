@@ -27,6 +27,8 @@ class Solution {
         }
         func(output,input,ans);
 
+
+        // this hashset copies only unnique elements
         HashSet<List<Integer>> set = new HashSet<>(ans);
 
         List<List<Integer>> result = new ArrayList<>(set);
@@ -34,6 +36,9 @@ class Solution {
         return result;
     }
 }
+
+// DO NOT CALCULATE THE POWER SET THE PROBLEM IS ONLY ASKING FOR UNIQUE COMBINATIONS
+// result arraylist only contains distinct elements
 
 
 
