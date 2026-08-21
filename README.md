@@ -10,6 +10,7 @@ This is a repository of Solved Questions
 | [0027-remove-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
@@ -181,6 +182,7 @@ This is a repository of Solved Questions
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
@@ -239,6 +241,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
