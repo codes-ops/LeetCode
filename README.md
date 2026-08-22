@@ -75,6 +75,7 @@ This is a repository of Solved Questions
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -125,6 +126,7 @@ This is a repository of Solved Questions
 | [0058-length-of-last-word](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
@@ -244,4 +246,8 @@ This is a repository of Solved Questions
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
