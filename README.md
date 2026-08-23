@@ -91,6 +91,7 @@ This is a repository of Solved Questions
 | [1344-angle-between-hands-of-a-clock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2235-add-two-integers) |
@@ -129,6 +130,7 @@ This is a repository of Solved Questions
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 | [3110-score-of-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 ## Tree
 |  |
@@ -250,4 +252,12 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
