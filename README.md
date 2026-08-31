@@ -38,6 +38,7 @@ This is a repository of Solved Questions
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -91,6 +92,7 @@ This is a repository of Solved Questions
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +185,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
