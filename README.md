@@ -41,6 +41,7 @@ This is a repository of Solved Questions
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
@@ -97,6 +98,7 @@ This is a repository of Solved Questions
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2119-a-number-after-a-double-reversal) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2469-convert-the-temperature) |
@@ -122,6 +124,7 @@ This is a repository of Solved Questions
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
 ## String
 |  |
@@ -210,6 +213,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -265,4 +269,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
