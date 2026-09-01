@@ -42,6 +42,7 @@ This is a repository of Solved Questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2574-left-and-right-sum-differences) |
@@ -125,6 +126,7 @@ This is a repository of Solved Questions
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
 ## String
 |  |
@@ -242,6 +244,7 @@ This is a repository of Solved Questions
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Counting Sort
 |  |
 | ------- |
