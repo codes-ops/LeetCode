@@ -9,6 +9,7 @@ This is a repository of Solved Questions
 | [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
@@ -223,6 +224,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
