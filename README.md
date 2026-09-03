@@ -24,6 +24,7 @@ This is a repository of Solved Questions
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
@@ -268,6 +269,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -280,4 +282,12 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
