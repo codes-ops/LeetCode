@@ -12,6 +12,7 @@ This is a repository of Solved Questions
 | [0041-first-missing-positive](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
@@ -89,6 +90,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
@@ -247,6 +249,7 @@ This is a repository of Solved Questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
