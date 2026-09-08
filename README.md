@@ -118,6 +118,7 @@ This is a repository of Solved Questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
