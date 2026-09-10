@@ -19,6 +19,7 @@ This is a repository of Solved Questions
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -142,6 +143,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
@@ -233,6 +235,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -277,6 +280,7 @@ This is a repository of Solved Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
@@ -302,4 +306,16 @@ This is a repository of Solved Questions
 | ------- |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
