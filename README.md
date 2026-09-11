@@ -35,6 +35,7 @@ This is a repository of Solved Questions
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1051-height-checker](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -284,6 +285,7 @@ This is a repository of Solved Questions
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 ## Greedy
 |  |
 | ------- |
