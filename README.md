@@ -97,6 +97,7 @@ This is a repository of Solved Questions
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -285,6 +286,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
@@ -320,6 +322,7 @@ This is a repository of Solved Questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
