@@ -152,6 +152,7 @@ This is a repository of Solved Questions
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
@@ -291,6 +292,7 @@ This is a repository of Solved Questions
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
