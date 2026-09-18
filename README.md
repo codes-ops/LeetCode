@@ -125,6 +125,7 @@ This is a repository of Solved Questions
 | [3783-mirror-distance-of-an-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +298,7 @@ This is a repository of Solved Questions
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
 | ------- |
