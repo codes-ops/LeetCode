@@ -4,13 +4,13 @@ class Solution {
             return 0;
         }
         if(score>n){
-            return 1000000000;
+            return (int)1e9;
         }
         if(dp[score][streak]!=-1){
             return dp[score][streak];
         }
         int a = 1 + func(n,score+streak+1,streak+1,dp);
-        int b = 1000000000;
+        int b = (int)1e9;
         if(streak>0){
             b = 1 + func(n,score,0,dp);
         }
