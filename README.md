@@ -25,6 +25,7 @@ This is a repository of Solved Questions
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
@@ -68,6 +69,7 @@ This is a repository of Solved Questions
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -292,6 +294,7 @@ This is a repository of Solved Questions
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -344,4 +347,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
