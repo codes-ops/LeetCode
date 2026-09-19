@@ -159,6 +159,7 @@ This is a repository of Solved Questions
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [1496-path-crossing](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 | [3110-score-of-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
@@ -253,6 +254,7 @@ This is a repository of Solved Questions
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1496-path-crossing](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
