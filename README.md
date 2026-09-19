@@ -58,6 +58,7 @@ This is a repository of Solved Questions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -256,6 +257,7 @@ This is a repository of Solved Questions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -303,6 +305,7 @@ This is a repository of Solved Questions
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
