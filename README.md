@@ -21,6 +21,7 @@ This is a repository of Solved Questions
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
@@ -298,6 +299,7 @@ This is a repository of Solved Questions
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
