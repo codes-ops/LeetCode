@@ -363,4 +363,12 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
