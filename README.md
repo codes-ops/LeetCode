@@ -161,6 +161,7 @@ This is a repository of Solved Questions
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1496-path-crossing](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -309,6 +310,7 @@ This is a repository of Solved Questions
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
@@ -358,6 +360,7 @@ This is a repository of Solved Questions
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
