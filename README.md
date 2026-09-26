@@ -34,6 +34,7 @@ This is a repository of Solved Questions
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
@@ -232,6 +233,7 @@ This is a repository of Solved Questions
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [1051-height-checker](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2974-minimum-number-game) |
@@ -312,6 +314,7 @@ This is a repository of Solved Questions
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
@@ -322,6 +325,7 @@ This is a repository of Solved Questions
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -368,6 +372,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quicksort
 |  |
 | ------- |
