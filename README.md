@@ -54,6 +54,7 @@ This is a repository of Solved Questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
@@ -282,6 +283,7 @@ This is a repository of Solved Questions
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Counting Sort
 |  |
@@ -320,6 +322,7 @@ This is a repository of Solved Questions
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
@@ -363,6 +366,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Common Subsequence
 |  |
 | ------- |
