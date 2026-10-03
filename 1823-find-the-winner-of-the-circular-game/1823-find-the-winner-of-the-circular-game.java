@@ -7,15 +7,8 @@ class Solution {
         while(a>=n){
             a = a - n;
         }
-        // if(k==n){
-        //     nums.remove(k);
-        //     return func(idx+k+1,n-1,k,nums);
-        // }
         nums.remove(a);
         idx = a;
-        if(idx>=n-1){
-            idx = 0;
-        }
         return func(idx,n-1,k,nums);
 
     }
