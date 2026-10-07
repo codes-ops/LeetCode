@@ -22,7 +22,7 @@ class Solution {
         }
     }
     public List<Integer> inorderTraversal(TreeNode root) {
-        ArrayList<Integer> nums = new ArrayList<>();
+        List<Integer> nums = new ArrayList<>();
         inorder(root,nums);
         return nums;
     }
