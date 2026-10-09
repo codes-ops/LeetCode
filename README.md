@@ -40,6 +40,7 @@ This is a repository of Solved Questions
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
@@ -287,6 +288,7 @@ This is a repository of Solved Questions
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -327,6 +329,7 @@ This is a repository of Solved Questions
 | [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
