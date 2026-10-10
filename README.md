@@ -13,6 +13,7 @@ This is a repository of Solved Questions
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
@@ -308,6 +309,7 @@ This is a repository of Solved Questions
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
@@ -396,4 +398,8 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
