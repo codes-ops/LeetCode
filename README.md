@@ -93,6 +93,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ This is a repository of Solved Questions
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
