@@ -14,6 +14,7 @@ This is a repository of Solved Questions
 | [0047-permutations-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
@@ -286,6 +287,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
@@ -317,6 +319,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0115-distinct-subsequences) |
