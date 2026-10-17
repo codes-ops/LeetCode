@@ -1,5 +1,5 @@
 class Solution {
-    public int func(int n){
+    public int fib(int n) {
         if(n==0){
             return 0;
         }
@@ -12,9 +12,6 @@ class Solution {
             next = curr;
         }
         return next;
-    }
-    public int fib(int n) {
-        return func(n);
     }
 }
 
