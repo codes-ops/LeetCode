@@ -36,6 +36,7 @@ This is a repository of Solved Questions
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -201,6 +202,7 @@ This is a repository of Solved Questions
 | ------- |
 | [0100-same-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -295,6 +297,7 @@ This is a repository of Solved Questions
 | [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -338,6 +341,7 @@ This is a repository of Solved Questions
 | [0509-fibonacci-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
