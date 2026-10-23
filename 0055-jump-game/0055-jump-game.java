@@ -19,7 +19,6 @@ class Solution {
                 return memo[i]=true;
             }
         }
-
         return memo[i] = false;
     }
     public boolean canJump(int[] nums) {
