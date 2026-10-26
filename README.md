@@ -22,6 +22,7 @@ This is a repository of Solved Questions
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
@@ -332,6 +333,7 @@ This is a repository of Solved Questions
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
