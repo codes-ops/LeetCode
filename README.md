@@ -90,10 +90,12 @@ This is a repository of Solved Questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
@@ -112,6 +114,7 @@ This is a repository of Solved Questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0050-powx-n) |
