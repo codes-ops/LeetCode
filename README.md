@@ -25,6 +25,7 @@ This is a repository of Solved Questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
@@ -121,6 +122,7 @@ This is a repository of Solved Questions
 | [0062-unique-paths](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
@@ -275,6 +277,7 @@ This is a repository of Solved Questions
 | [0001-two-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -423,4 +426,16 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0051-n-queens) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
