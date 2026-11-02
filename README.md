@@ -18,6 +18,7 @@ This is a repository of Solved Questions
 | [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
@@ -81,6 +82,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -303,6 +305,7 @@ This is a repository of Solved Questions
 | [0048-rotate-image](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0867-transpose-matrix) |
