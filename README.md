@@ -37,6 +37,7 @@ This is a repository of Solved Questions
 | [0300-longest-increasing-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0542-01-matrix) |
@@ -113,6 +114,7 @@ This is a repository of Solved Questions
 | [0287-find-the-duplicate-number](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [2540-minimum-common-value](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -255,6 +257,7 @@ This is a repository of Solved Questions
 | [0169-majority-element](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -367,6 +370,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [1927-sum-game](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/1927-sum-game) |
 ## Game Theory
@@ -421,6 +425,7 @@ This is a repository of Solved Questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/codes-ops/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
